@@ -1,0 +1,2 @@
+# ghost
+Ghost Plugin SDK
