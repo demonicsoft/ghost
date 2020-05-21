@@ -1,2 +1,2 @@
 # ghost
-Ghost Plugin SDK
+Ghost.dll
